@@ -1,0 +1,13 @@
+TODO:
+    ->(ALMOST DONE) Optimize Commands.*!
+        -> WORK IN PROGRESS
+        -> REQUIRED: PROJECTS CLASS
+    ->(DONE) Assign workers to work
+
+    ->(IN PROCESS) Create Class Finish project
+
+
+    ->(FINAL BOSS) JAVA FX GUI
+
+    -> IDEAS
+        Add FINISHED col. in sql DATABASE to
